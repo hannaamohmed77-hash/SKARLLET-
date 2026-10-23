@@ -1,0 +1,27 @@
+{
+  "reaction": "🖤",
+  "reaction_status": "on",
+
+  "group": {
+    "status": "on",
+    "newSubject": "『مہژړﯙڣہ⊰🖤⊱𝔇𝔞𝔯𝔨』",
+    "newDescription": "تم زرف الجروب بواسطة 𝔇𝔞𝔯𝔨 🖤\n\n𝔇𝔞𝔯𝔨 — هنا تبدأ الحكاية 🖤"
+  },
+
+  "messages": {
+    "status": "on",
+    "start": "انتهت الحفلة🌟",
+    "mention": "*𝔇𝔞𝔯𝔨*",
+    "final": "تمت مساواة كرامة الجميع بلأرض🖤"
+  },
+
+  "media": {
+    "status": "on",
+    "image": "data/image.jpeg"
+  },
+
+  "audio": {
+    "file": "data/AUDIO.mp3",
+    "status": "off"
+  }
+}
